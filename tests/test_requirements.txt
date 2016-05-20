@@ -1,0 +1,4 @@
+django
+-e 
+git+https://github.com/networklocum/django-auto-signals@master#egg=auto_signals
+

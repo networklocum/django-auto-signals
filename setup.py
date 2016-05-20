@@ -8,6 +8,7 @@ model is changed in the database.',
     packages=['auto_signals'],
     install_requires=[
       'django',
+      'https://github.com/curiousest/django-dirtyfields/tree/master#egg=dirtyfields',
     ]
 )
 
